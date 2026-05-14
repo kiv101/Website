@@ -7,7 +7,7 @@
 
 > Современное адаптивное SPA-портфолио для frontend-разработчика с переключением тем, анимациями и готовой структурой для деплоя на GitHub Pages.
 
-![Превью сайта](https://via.placeholder.com/1200x630?text=Portfolio+Preview)
+![Превью сайта](file:///D:/qwkiv/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20(4).html)
 
 ## ✨ Особенности
 
